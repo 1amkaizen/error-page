@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto' !important;
+}
+
+/* Navbar */
+.navbar-brand {
+  font-weight: 1000;
+  font-size: 23px;
+
+  color: blueviolet;
+}
+
+/* page */
+#page h1 {
+
+  font-size: 64px;
+  font-weight: 800;
+  color: blueviolet;
+}
+
+#page h2 {
+
+  font-size: 32px;
+  font-weight: 800;
+  color: black;
+}
+
+.btn {
+  border-radius: 25px;
+  border-color: blueviolet;
+  color: blueviolet;
+}
+
+.btn:hover {
+  background-color: blueviolet;
+  color: white;
+}
